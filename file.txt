@@ -1,2 +1,1 @@
-Hello from file.txt
-This is Lab 03 NodeJS example.
+Hello World!
